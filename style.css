@@ -14,11 +14,11 @@ header{
 nav{
 	width: 100%;
 	height: auto;
-	color: #fff;
+	color: rgb(250, 228, 228);
 	z-index: 999;
 }
 .upper_navbar{
-	background-color: #112255; 
+	background-color: #223b86; 
 }
 .menu1{
 	width: 90%;
@@ -36,12 +36,12 @@ nav{
 	padding: 0px 20px;
 }
 .menu1 ul li a{
-	color: #fff;
+	color: rgb(212, 185, 185);
 	font-size: 10pt;
 	text-decoration: none;
 }
 .menu1 ul li:hover{
-	background-color: #0a9cc9;
+	background-color: #277a94;
 	transition: 0.3s;
 }
 .menu-icon{
